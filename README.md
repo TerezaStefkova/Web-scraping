@@ -1,2 +1,2 @@
 # Web-scraping
-Scraping job posting from a website
+Scraping job postings from a website
